@@ -1,0 +1,51 @@
+#div1{
+            margin:0 auto;
+            background:blue;
+            width:880px;
+            height:61px;
+            padding-left: 33px;
+        }
+        #div1 h3{
+            height:61px;
+            line-height: 61px;
+            font-size:14px;
+            color:white;
+        }
+        #div2{
+            width:913px;
+            height:61px;
+            margin:0 auto;
+            background:skyblue;
+        }
+        #div3{
+            width:913px;
+            padding-top: 47px;
+            margin:0 auto;
+        }
+        #div3 #div4{
+            padding-left: 261px;
+        }
+        #div3 #div4 input{width:210px;height:20px;line-height: 20px;padding: 0 5px;
+                            background:#f3f3f3;color:#888;font-size: 12px;margin-left:37px;}
+        #div3 #div5{
+            padding-left: 261px;
+            margin-top:15px;
+        }
+        #div3 #div5 input{width:210px;height:20px;line-height: 20px;padding: 0 5px;
+                            background:#f3f3f3;color:#888;font-size: 12px;margin-left:53px;}
+        #div3 #div6{
+            padding-left: 261px;
+            margin-top:15px;
+        }
+        #div3 #div6 input{width:142px;height:20px;line-height: 20px;padding: 0 5px;
+                            background:#f3f3f3;color:#888;font-size: 12px;margin-left:37px;}
+        #div3 #div6 div{width: 69px;height:32px;background:red;display:inline-block;}
+        #div3 #div7{margin-left: 261px;margin-top: 20px;width: 75px;}
+        #div3 #div7 a{text-decoration: none;}
+        #div3 #div7:hover{border-bottom:1px solid blue;}
+        #div3 #div8{padding-left: 261px;padding-top: 30px;}
+        #div3 #div8 input{background: blue;width: 111px;height: 31px;text-align: center;
+                            line-height: 31px;color:white;cursor: pointer;}
+
+        #div3 #div8 input:nth-of-type(2){margin-left:40px;}
+        .box{font-size:13px;color:red;margin-left:10px;}
